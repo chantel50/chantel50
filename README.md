@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Favour 👋
 
-<!--
-**chantel50/chantel50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Cloud & DevOps Engineer
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate with a background in Cloud Engineering, currently building my skills in DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about cloud infrastructure, automation, containerisation and continuous integration and delivery (CI/CD).
+
+### 🛠️ Technologies & Tools
+
+- **Cloud:** AWS
+- **Operating Systems:** Linux, Ubuntu
+- **Version Control:** Git and GitHub
+- **Containers:** Docker and Docker Compose
+- **CI/CD:** GitHub Actions, Jenkins
+- **Infrastructure as Code:** Terraform
+- **Configuration Management:** Ansible
+- **Container Orchestration:** Kubernetes
+- **Monitoring:** Prometheus and Grafana
+
+### 🚀 What I'm Currently Doing
+
+- Building practical DevOps projects.
+- Improving my Linux and cloud engineering skills.
+- Learning infrastructure automation and deployment.
+- Documenting my technical learning journey.
+
+### 🤝 Let's Connect
+
+- **GitHub:** https://github.com/chantel50
+- **LinkedIn:** https://www.linkedin.com/in/favour-chiamaka-okudo/
