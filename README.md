@@ -6,7 +6,7 @@ I'm a Computer Science graduate with a background in Cloud Engineering, currentl
 
 I'm passionate about cloud infrastructure, automation, containerisation and continuous integration and delivery (CI/CD).
 
-### 🛠️ Technologies & Tools
+### 🛠️Technologies & Tools I'm Learning and Working With
 
 - **Cloud:** AWS
 - **Operating Systems:** Linux, Ubuntu
